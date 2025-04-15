@@ -9,5 +9,5 @@ function trailingZeros(n) {
 	
 }
 
-const input = promp("Enter a number");
-aler(trailingZeros(input));
+const input = prompt("Enter a number");
+alert(trailingZeros(input));
